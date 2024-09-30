@@ -5,6 +5,7 @@ import React from 'react';
 function Navbar() {
    
     return (
+       // navbar start
         <nav className="bg-purple-300 text-white shadow-lg">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex justify-between h-16">
