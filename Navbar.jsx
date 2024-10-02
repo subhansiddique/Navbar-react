@@ -40,6 +40,6 @@ function Navbar() {
 export default Navbar;
 
 
-
+// navigation from react router dom
 
 // https://templates.bwlthemes.com/blood_donation/v_2/index.html
